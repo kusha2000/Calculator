@@ -17,8 +17,10 @@ Technologies Used
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
+![Demo](https://github.com/user-attachments/assets/5ba0ee7c-5db8-4b67-8afc-1c2b2bcdab46)
 
 
 <br><br>
 <h2>This is the screenshots of the system</h2><br><br>
 
+![1](https://github.com/user-attachments/assets/221a1338-00ed-49a0-be64-51a47b39906f)

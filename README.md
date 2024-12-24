@@ -17,7 +17,7 @@ Technologies Used
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/user-attachments/assets/5ba0ee7c-5db8-4b67-8afc-1c2b2bcdab46)
+https://github.com/user-attachments/assets/51c03130-8d25-4190-91ef-a9b57b72ea23
 
 
 <br><br>
